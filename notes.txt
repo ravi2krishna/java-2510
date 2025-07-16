@@ -1,0 +1,84 @@
+15th July
+=========
+
+    -> Java Backend
+
+        -> Core Java ( Language Fundamentals ) - 60% 
+
+        -> Advance Java ( MT, EH, Collections Framework, SQL, RDBMS ) - 20%
+
+        -> Spring Framework / Spring Boot (API's - Micro Services) - 20%
+
+    -> Java 
+
+        -> Programming Language
+
+    -> Language ?
+
+            -> Communication (Verbal, Written, Gestures etc)
+
+            -> Languages Constructed ?
+
+                -> Regions (South India - North India etc)
+
+            -> Human to Human (English, Hindi, Telugu etc)
+
+    -> Programming ?
+
+        -> Set Of Rules / Instructions
+
+            -> TASK 
+
+    -> Programming Language
+
+        -> Set Of Instructions To Perform TASK
+
+    -> Javascript, Java, Python, C etc
+
+    -> Based On Domains 
+
+    -> Java vs Python 
+
+        -> Java is performance oriented (FASTEST) --> COMPILED 
+
+        -> Python is performance oriented (FAST) --> INTERPRETED
+
+        -> Build An Application (Java -> 6 Months)  (Run Faster)
+        -> Build An Python      (Python -> 6 Weeks) (Develop Faster)
+    
+    -> How Many ways you can Perform a TASK(Programming) ?
+
+        -> Programming paradigms are fundamental styles or approaches used 
+            in computer programming to solve problems.
+
+        -> Imperative Programming Language
+
+            -> How To Do 
+
+            -> Java is Imperative Programming Language
+
+        -> Declarative Programming Language
+
+            -> What To Do 
+
+            -> SQL is Declarative Programming Language
+
+        -> High Level
+
+        -> Low Level
+
+            01101010 01100001 01110110 01100001 00100000 01101001 
+            01110011 00100000 01100010 01100101 01110011 01110100
+
+        -> Myntra Application
+
+            brandName = The Indian Garage Co
+            ratings = 4.2
+            price = 750
+            size = 36
+
+            System.out.println(" The Brand is "+brandName+ " has ratings"+ratings)
+
+            -> On the Object Level
+
+            -> Object -> Screen, Table,  
