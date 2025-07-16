@@ -82,3 +82,22 @@
             -> On the Object Level
 
             -> Object -> Screen, Table,  
+
+16th July
+=========
+
+    -> Install Java (21 LTS)
+
+    -> Install VS Code (IDE - Integrated Development Environment)
+
+    -> GitHub (Platform To Store Code and Collaborate)
+
+    -> Git (Client To Enable Tracking)
+
+    -> Version Control / Source Control / Revision Control
+
+        -> Keep Track Of Changes(Programs, Website files, any file)
+
+    -> Install Git On Your Laptop  
+
+    -> Setup GitHub Account
