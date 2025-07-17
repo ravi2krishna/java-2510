@@ -101,3 +101,42 @@
     -> Install Git On Your Laptop  
 
     -> Setup GitHub Account
+
+17th July
+=========
+
+    -> Java Compiler (javac)
+
+    -> Java Interprter (java)
+
+    -> JVM - JRE - JDK
+
+        -> JVM - Java Virtual Machine
+
+            -> Converts Byte Code To Machine Code
+
+            -> Java Platform Independent (JVM)
+
+        
+        -> JRE - Java Runtime Environment
+
+            -> In Servers we use JRE 
+
+            -> JRE is used to RUN JAVA PROGRAMS / APPS
+
+            -> JRE is NOT used to DEVELOP JAVA PROGRAMS / APPS
+
+        -> JDK - Java Development Kit
+
+            -> In Developer Laptops we use JDK
+
+            -> JDK Contains various utilities to Develop & Run Java Programs
+
+    -> W.R.T Hello World Program (App.java)
+
+        -> JDK : You Write Java Code Using JDK Tools (java)
+
+        -> JRE : You Compile Java Code Using JRE (javac)
+
+        -> JVM : Reads .class file i.e Byte Code and Gives it to OS for execution
+
