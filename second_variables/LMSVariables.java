@@ -13,7 +13,7 @@ public class LMSVariables {
         boolean isStudentMale = true;
         long studentMobileNumber = 9000090;
 
-        Car mahindra ;
+        // Car mahindra ;
 
         // String Concatenation means joing multiple strings, join strings with
         // other data types
