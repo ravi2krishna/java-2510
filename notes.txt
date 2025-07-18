@@ -140,3 +140,53 @@
 
         -> JVM : Reads .class file i.e Byte Code and Gives it to OS for execution
 
+18th July
+=========
+
+    -> Variables
+
+        -> Store the values ?
+
+            -> To retrieve data 
+            -> To perform some operations on data
+            -> To Store data
+
+        -> brand
+        -> description
+        -> ratings
+        -> price 
+
+        -> Data you want to store, you need to specify data type
+            -> above approach is called as Static Typed/Strict Typed
+
+        -> Data Type is classification of data
+
+            -> Primitive Data types 
+
+                -> Fundamental data types, which are prebuilt to store numbers, decimals,
+                    characters, symobols, true and false
+
+                        -> byte
+                        -> short
+                        -> int
+                        -> long
+                        -> float
+                        -> double
+                        -> char
+                        -> boolean
+
+
+            -> Non-Primitive Data types
+
+                -> Either we can use already defined by java, Strings, Arrays, Collections, Interfaces etc
+
+                -> As a user you can create your own data types as well
+                    Student, Employee, Company etc  
+    
+    -> NOTE : The local variable someDataNew2 may not have been initialized
+
+    -> We have Instance Variables, Local Variables & Satic Variables 
+
+        -> For any kind of Variables we work with, we need to specify Datatype
+
+    -> Based on the data type we select, default values are applicable
