@@ -213,3 +213,14 @@
         -> LOSS OF DATA (UNSAFE)
 
         -> NARROWING / Explicit Conversion / Type Casting
+
+        -> To Perform Casting we need to keep target datatype in parentheses (int) before value
+
+    -> Incompatible Conversions
+
+        -> Text To Number or Number To Text (Possible)
+
+        -> https://docs.oracle.com/javase/specs/jls/se8/html/jls-5.html#jls-5.5
+
+
+
