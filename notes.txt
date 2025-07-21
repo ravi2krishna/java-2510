@@ -206,4 +206,10 @@
 
         -> WIDENING / Implicit Conversion / Type Conversion
 
-    -> Variables Conversion
+    -> Type Casting 
+
+        -> Manual / Explicit - is done by developer, when Conversion is considered UNSAFE
+
+        -> LOSS OF DATA (UNSAFE)
+
+        -> NARROWING / Explicit Conversion / Type Casting
