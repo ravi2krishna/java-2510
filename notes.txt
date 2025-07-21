@@ -190,3 +190,20 @@
         -> For any kind of Variables we work with, we need to specify Datatype
 
     -> Based on the data type we select, default values are applicable
+
+21st July
+=========
+
+    -> Type Conversion & Type Casting
+
+        -> Convert One Datatype to Another Datatype
+
+    -> Type Conversion 
+
+        -> Automatic / Implicit - is done by java Compiler, when Conversion is considered SAFE
+
+        -> NO LOSS OF DATA (SAFE)
+
+        -> WIDENING / Implicit Conversion / Type Conversion
+
+    -> Variables Conversion
