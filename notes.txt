@@ -223,4 +223,98 @@
         -> https://docs.oracle.com/javase/specs/jls/se8/html/jls-5.html#jls-5.5
 
 
+22nd July
+=========
+
+    -> Variables 
+        -> Store the Data
+        -> Retrieve the Data
+        -> Manipulate the Data(Operators)
+
+    -> Operators    
+
+        -> Special Symbols, perform operations on Variables & Value
+
+            -> Values - Operands
+            -> Symbols - Operators
+        
+    -> Types Of Operators
+
+        -> Arithmetic Operators
+
+            -> For Mathematical Calculation
+                + - * / % 
+
+        -> Increment / Decrement Operators
+
+            -> To Increase or Decrease the value by 1
+            -> Mostly used in Loops(repeated actions)
+            -> Increment ++ (pre/post)   
+            -> Decrement -- (pre/post)   
+
+        -> Compound Assignment Operators
+
+            -> Assignment Operator is =
+
+            -> Compound Assignment Operators 
+            Used to perform Arithmetic operations in concise(short) form
+
+            -> Compound Assignment Operators
+                +=, -=, *=, /=, %=
+
+            -> x = x + 5(long form) or x += 5 (short form)
+
+        -> Relational Operators (Comparison)
+
+            -> Used to compare values and return true/false(boolean)
+
+            -> Mostly used in conditional checks
+
+            -> ==, !=, >, <, >=, <=
+
+        -> Logical Operators
+
+            -> Used to combine multiple conditionals
+
+            -> Used to compare values and return true/false(boolean)  
+
+            -> Mostly used in conditional checks
+
+            -> && (AND) - returns true, if both(multiple) conditions are true
+            -> || (OR)  - returns true, if one of the conditions is true
+            -> ! (NOT)  - inverts, true is false and false is true
+
+            X       Y       X && Y      X || Y      !X      !Y
+            T       T         T            T         F       F
+            T       F         F            T         F       T    
+            F       T         F            T         T       F
+            F       F         F            F         T       T
+
+
+        -> Bitwise Operators
+
+            -> Used To Perform operations On Binary Bits (01)
+
+            -> Mostly used in low level programming 
+
+                -> Embedded Systems, Network Programming, OS Level etc
+
+            -> & (AND) - Sets each bit to 1, if both the bits are 1   
+            -> | (OR) - Sets each bit to 1, if one of the bits is 1
+            -> ^ (XOR) - Sets each bit to 1, if only one of the bits is 1
+                       - if both values are different then output is 1
+                       - if both values are same then output is 0
+            -> ~ (NOT) (tilde) - Inverts the bits (0 becomes 1 and 1 becomes 0)
+            -> << (Left Shift) 
+                -> Moves the bits left specified by number of positions, let the leftmost
+                bits falls off (pushing zeros in from right)
+            -> >> (Right Shift)
+                -> Moves the bits right specified by number of positions, let the rightmost
+                bits falls off (pushing zeros in from left)
+
+
+
+
+
+
 
