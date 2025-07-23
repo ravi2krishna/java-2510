@@ -313,6 +313,39 @@
                 bits falls off (pushing zeros in from left)
 
 
+23rd July
+=========
+
+    -> Operators LAB With LMS Scenario
+
+    -> Control Structures / Statements
+
+        -> In Java Control Structures are used to 
+        control the flow of execution in a program
+
+        -> We have three categories for Control Structures
+
+            -> Decision Making Statements (Conditional Statements)
+
+                -> if 
+                -> if-else
+                -> else if ladder
+                -> switch 
+
+            -> Looping Statements (Iteration Statements)
+
+                -> while
+                -> do while
+                -> for
+
+            -> Branching Statements (Jump Statements)
+
+                -> break
+                -> continue
+                -> return
+
+
+
 
 
 
