@@ -371,3 +371,35 @@
         NOTE: We can also use nested conditions, condition inside another condition
 
 
+25th July
+=========
+
+    -> Looping Statements / Iteration Statements
+
+        -> Loops will help you a block of code to executed repeatedly, based on a condition
+
+        -> Types Of Loops
+
+            -> for loop - when you already know in advance, how many times you need to 
+                execute the block of code
+            
+            -> while loop - runs block of code, as long as the condition is true
+            
+            -> do-while loop - similar to while, but run the code at least once, 
+                even before checking the condition
+
+            -> Branching Statements 
+
+                -> break - exits the loop, when used with for, while, 
+                    do-while or switch 
+
+                -> continue - skip the current Iteration 
+
+                -> return - returns a value
+
+    -> Scanner Class -> Predefined class designed to take user input
+
+        -> nextInt(): Reads an integer value.
+        -> nextDouble(): Reads a double value.
+        -> nextLine(): Reads an entire line of text.
+        -> next(): Read the next token (word).
