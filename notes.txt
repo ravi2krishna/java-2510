@@ -345,9 +345,29 @@
                 -> return
 
 
+24th July
+=========
 
+    -> Conditional Statements
 
+        -> Evaluate a condition(-> boolean), execute different blocks of Code
+        based on whether the condition is true or false
 
-
+        -> if 
+            -> Execute a block of code if condition is true
+        -> if-else
+            -> Execute one block of code if condition is true,
+                another block of code if condition is false
+            -> Ternary Operator - same as if else, but concise form 
+                variable = condition ? value_if_true:value_if_false;
+        -> else if ladder
+            -> Allows multiple conditions to be checked
+        -> switch 
+            -> Allows multiple conditions to be checked
+            -> We can use fall through behavior where we can assign multiple values
+            -> we also have new switch-case from java 8 onwards, where we can use
+            arrow operator ->
+        
+        NOTE: We can also use nested conditions, condition inside another condition
 
 
