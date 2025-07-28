@@ -403,3 +403,11 @@
         -> nextDouble(): Reads a double value.
         -> nextLine(): Reads an entire line of text.
         -> next(): Read the next token (word).
+
+28th July
+=========
+
+    -> LMS With Variables - Data Types - Operators - Type Casting 
+        - Conditionals - Loops
+
+    
