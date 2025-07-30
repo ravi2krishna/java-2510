@@ -492,3 +492,24 @@
         -> Only one copy exists, meaning shared across all Objects
         -> Accessed using class name 
         -> Initialized Only once, at the time of class loading  
+
+    -> Methods
+
+        -> Method is a block of code that performs a TASK / ACTION
+
+        -> Method Declaration
+
+            -> Method Header         
+            -> Method Body
+
+            // simple
+            -> accessModifier returnType/void methodName (parametersList) {
+                // method body
+                return value;
+            }
+
+            // complex
+            -> accessModifier static/non-static returnType/void methodName (parametersList) throws ExceptionsList{
+                // method body
+                return value;
+            }
