@@ -469,4 +469,26 @@
             -> Using Static keyword -> Static Variables
 
 
+30th July
+=========
 
+    -> Instance Variables
+
+        -> Declared inside a class, but outside the method and not Static
+        -> Belong to each object
+        -> Memory is allocated when an object is created
+        -> can have default values, if not initialized
+
+    -> Local Variables
+
+        -> Declared inside a method, Constructors or Blocks
+        -> Only accessible within method, Constructors or Blocks, in which 
+            its's Declared
+        -> Must be initialized before use 
+
+    -> Static Variables
+
+        -> Belong to class, not individual Objects
+        -> Only one copy exists, meaning shared across all Objects
+        -> Accessed using class name 
+        -> Initialized Only once, at the time of class loading  
