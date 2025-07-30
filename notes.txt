@@ -410,4 +410,63 @@
     -> LMS With Variables - Data Types - Operators - Type Casting 
         - Conditionals - Loops
 
-    
+
+29th July
+=========    
+
+    -> Object Oriented Programming (OOP)
+
+        -> OOPS is a way of Structuring code, so that we can group 
+            data(Variables) and behavior(Methods) using Objects
+
+        -> OOP Concepts
+
+            -> Classes
+            -> Objects
+
+            -> Inheritance
+            -> Encapsulation
+            -> Polymorphism
+            -> Abstraction
+
+    -> Considering Laptop as an Object
+
+        -> data(Variables) and behavior(Methods)
+
+            -> Data - Variables
+
+                -> LaptopBrand = MAC -> String laptopBrand = "MAC";
+                -> LaptopWeight = 1.5 -> double  laptopWeight = 1.5;
+                -> LaptopModel = MACBOOK AIR -> String laptopModel = "MACBOOK AIR";
+
+            -> Behavior - Methods (Task)
+
+                -> Laptop can browse -> public void browseWeb() {} 
+                -> Laptop can play videos -> public void playVideos() {} 
+                -> Laptop can do some task -> public void doTask() {} 
+
+        -> Laptop, Person, Anything can be an Object
+
+        -> To Create an Object ? 
+            We need Class ?
+
+        -> Class ?
+
+            -> Blueprint of Object
+
+        -> Object 
+
+            -> Real instance of an class
+
+        -> Methods
+
+            -> Method is a block of code that performs a TASK / ACTION         
+
+        -> Data (Variables) we can represent them in 
+
+            -> Class Level -> Instance Variables
+            -> Inside Methods -> Local Variables
+            -> Using Static keyword -> Static Variables
+
+
+
