@@ -519,4 +519,40 @@
 
     -> LMS With Classes, Objects & Methods.
 
+
+1st Aug
+=======
+
+-> Constructors
+
+-> Method - Block of code that performs some TASK
+
+-> Constructor - Block of code that performs OBJECT initialization
+
+    -> Constructor is a special method, that initializes newly
+        created objects
+
+    -> Method is called, after creating object
+        -> Explicitly call method
+
+    -> Constructor is called, at the time of object creation
+        -> Implicitly called, while object is being created
+
+    -> Constructors will not have any return type, not even void
+
+    -> method name can be your choice, but Constructor name should
+        be class name only    
+
+    -> Default Constructor
+
+        public ConstructorDemo(){    
+        
+        }
+
+    -> Parameterized Constructor
+        
+        public ConstructorDemo(datatype parametersNames, ...){    
+        
+        }
     
+    -> this - keyword refers to current instance of class
