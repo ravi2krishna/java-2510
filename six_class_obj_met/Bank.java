@@ -2,7 +2,18 @@ package six_class_obj_met;
 
 public class Bank {
 
-    double currentBalance = 1000;
+    double currentBalance;
+
+    public Bank(){
+        // every bank account you create - minimum 2000 bal is must
+        currentBalance = 2000;
+    }
+
+    public Bank(double custom_amount_to_open_account){
+        // every bank account you create - minimum 2000 bal is must
+        currentBalance = custom_amount_to_open_account;
+    }
+
 
     public void greetCustomer(){
         System.out.println("Welcome To Bank");
