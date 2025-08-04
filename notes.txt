@@ -556,3 +556,44 @@
         }
     
     -> this - keyword refers to current instance of class
+
+4th Aug
+=======
+
+-> Constructor Overloading
+
+    -> Having Multiple Constructors(for different types of
+    initializations), with different parameters
+        -> Number of parameters
+        -> Type of parameters
+        -> Order of parameters
+    
+    -> Constructor() {
+
+       }
+    
+    -> Constructor(int a, int b) {
+
+       }
+
+    -> Constructor(int a, int b, int c) {
+
+       }
+    
+    -> Constructor(double a, double b) {
+
+       }
+    
+    -> Constructor(int a, double b) {
+
+       }
+
+    -> Constructor(double a, int b) {
+
+       }
+    
+-> this() - Constructor call
+
+    -> Used to call a Constructor inside another Constructor
+
+-> NOTE : this is keyword, used to refer current instance
