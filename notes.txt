@@ -597,3 +597,57 @@
     -> Used to call a Constructor inside another Constructor
 
 -> NOTE : this is keyword, used to refer current instance
+
+5th Aug
+=======
+
+-> Variable - If you want to store data we need a variable
+
+-> Datatype - Specifies what type of value a variable can hold
+
+    -> int num = 10;
+
+-> In general, a variable can hold only One Value at a time.
+
+    -> int studentScore = 90; Valid
+    -> int studentScores = 90,80,75; Invalid 
+
+    -> If you want to Store Multiple Values for 
+    a single variable then we need ARRAYS
+
+-> Arrays - A data Structure thats holds Multiple Values for 
+    a single variable with SAME DATA TYPES, and FIXED SIZE
+
+    -> Types Of Arrays
+
+        -> Single Dimensional Array
+        -> Multi Dimensional Array
+
+    -> In a graph, how we have x and y axis, in arrays we can apply
+    the same concept, to represent data
+
+-> Single Dimensional Array
+
+    -> If we have only a single dimension (only X axis), then its
+    a Single Dimensional Array
+
+    -> Each element is Accessed using an Index(Position) 
+        (starting from Zero (0) ) 
+
+    -> Create array using 
+
+        datatype[] arrayName = new datatype[size];
+
+        int[] arrayName = {1,2,3,4,5};
+
+
+-> Multi Dimensional Array 
+
+    -> If we have multiple dimension (like X axis & Y axis), then its
+    a Multi Dimensional Array
+
+    // 2D Array
+    -> datatype[][] arrayName = new datatype[size][size];
+
+    // 3D Array
+    -> datatype[][][] arrayName = new datatype[size][size][size];
