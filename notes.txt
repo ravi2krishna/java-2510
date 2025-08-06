@@ -656,3 +656,27 @@
 =======
 
     -> LMS with Arrays
+
+    -> Strings In Java
+
+-> String - A sequence of characters
+
+-> String msg = "Java";
+
+-> String is non-primitive data type
+
+-> String class and every string we create, is an
+    object of string class
+
+-> Strings are called Literals, as they possess
+ unique behavior.
+
+    -> When we create an object of string class,
+     directly we can assign the value and prints the
+     value directly
+
+    -> When it comes to other classes, unlike Strings
+    when we print the object, it give object address
+
+    
+
