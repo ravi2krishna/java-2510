@@ -651,3 +651,8 @@
 
     // 3D Array
     -> datatype[][][] arrayName = new datatype[size][size][size];
+
+5th Aug
+=======
+
+    -> LMS with Arrays
