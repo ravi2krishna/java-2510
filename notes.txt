@@ -678,5 +678,10 @@
     -> When it comes to other classes, unlike Strings
     when we print the object, it give object address
 
-    
+-> String Pool 
+
+    -> data = "hello" -> size
+    -> bk_data = "hello" -> size
+
+
 
