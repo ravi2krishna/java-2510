@@ -2,7 +2,7 @@ package nine_strings;
 
 public class Demo {
     public static void main(String[] args) {
-        int i = 10;
+        // int i = 10;
         String s = "Hello";
 
         // Demo d1 = "Java"; # Other classes Error, only 
@@ -46,6 +46,41 @@ public class Demo {
         System.out.println(sss1.substring(2));
         System.out.println(sss1.substring(2,6));
         
+        // String Immutability Test
+        String greet = "hello";
+        System.out.println(greet.concat(" good morning"));
+        System.out.println(greet); // original string never changed/modified
+
+        // String vs String Buffer vs String Builder
+        long startTime = System.currentTimeMillis();
+        String str = "Java";
+        for (int i = 0; i < 10000; i++) {
+            str = str + " Programming";
+        }
+        long stopTime = System.currentTimeMillis();
+        System.out.println("Time Taken Using Strings: "+(stopTime-startTime));
+
+        // StringBuilder ssb = new StringBuilder("Hello");
+        // System.out.println(ssb.append(" World"));
+        
+        // String Builder
+        long startTimeBuilder = System.currentTimeMillis();
+        StringBuilder strBuilder = new StringBuilder("Java");
+        for (int i = 0; i < 10000; i++) {
+            strBuilder.append(" Programming");
+        }
+        long stopTimeBuilder = System.currentTimeMillis();
+        System.out.println("Time Taken Using String Builder: "+(stopTimeBuilder-startTimeBuilder));
+
+        // StringBuffer ssbuf = new StringBuffer("Hello");
+        // System.out.println(ssbuf.append(" World"));
+        long startTimeBuffer = System.currentTimeMillis();
+        StringBuffer strBuffer= new StringBuffer("Java");
+        for (int i = 0; i < 10000; i++) {
+            strBuffer.append(" Programming");
+        }
+        long stopTimeBuffer = System.currentTimeMillis();
+        System.out.println("Time Taken Using String Buffer: "+(stopTimeBuffer-startTimeBuffer));
 
     }
 }
