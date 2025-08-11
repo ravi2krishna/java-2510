@@ -701,3 +701,22 @@
         -> StringBuilder (Non-Thread Safe)
 
     -> LMS App With Strings    
+
+11th Aug
+=======
+
+-> Static vs Non-Static 
+
+    -> First We need to be clear with Classes & Object
+
+        -> Class - Blue Print Of an Object
+
+            -> Variables, Data types, Constructors, Objects
+
+                -> We can also add Blocks (Static & Non-Static) 
+    
+    -> In Java To Allocate Memory
+
+        -> Using new keyword create an object and memory will be allocated
+
+        -> Using static keyword also memory is allocated
