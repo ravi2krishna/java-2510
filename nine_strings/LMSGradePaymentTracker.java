@@ -14,6 +14,7 @@ public class LMSGradePaymentTracker {
         // s1.studentID
         // s1.studentName
 
+        Student s1 = new Student(101, "Ravi", 880909099, 20,"i have promo code with me",30000);
         Student s2 = new Student(102, "Krishna", 990909099, 20,"i have promo code with me",30000);
         // s2.studentID
         // s2.studentName
