@@ -735,4 +735,4 @@
 
     -> Constructors internally call non-static or instance blocks
 
-    -> Main method is the starting point of execution
+    -> Main method is the starting point of execution, unless a static block is used
