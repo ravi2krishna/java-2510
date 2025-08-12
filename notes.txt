@@ -720,3 +720,19 @@
         -> Using new keyword create an object and memory will be allocated
 
         -> Using static keyword also memory is allocated
+
+12th Aug
+========
+
+    -> Instances Variables - Done
+    -> Static Variables - Done
+    -> Static Methods - Acts On Static Data
+    -> Instance Methods - Acts On Instance Data
+
+    -> static blocks - To initialize static variables
+
+    -> instance blocks - To initialize non-static variables
+
+    -> Constructors internally call non-static or instance blocks
+
+    -> Main method is the starting point of execution
