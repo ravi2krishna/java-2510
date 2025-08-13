@@ -759,4 +759,71 @@
 
         -> Child will extends Parent
 
+    -> With Inheritance
+
+        -> Code Reusability
+        -> No Code Duplication i.e No Repeatability
+        -> Project Size is Less as Code is Less
+        -> Code Reliability Increases
+        -> Code Maintainability Improved
+
+    -> Types Of Inheritance
+
+        -> Single Level Inheritance
+
+            -> A class inherits from another single class only
+
+            -> A extends B 
+                A -> B (Guest -> VideoAdmin)
+
+        -> Multi Level Inheritance
+
+            -> A class inherits from another class, which inturn inherits from
+                another class
+
+            -> A extends B and B extends C 
+                A -> B -> C  (Guest -> VideoAdmin -> SuperAdmin)
+
+
+        -> Hierarchal Level Inheritance
+
+            -> Multiple Classes Inherit from Same Super Class
+
+                       A
+
+                B   C     D   E
+
+                                Guest 
+
+            -> VideoAdmin -> ContentReviewer -> Teacher
+
+        -> Multiple Inheritance
+
+            -> One Class inherits from two or more classes (NOT OK)
+
+            -> One Class inherits from two or more Interfaces (OK)
+
+            -> Multiple Inheritance is not supported with Classes
+
+            -> Multiple Inheritance is supported with Interfaces
+
+                -> Classes - A class is a Blueprint for an object
+                -> Interfaces - An interface is a Blueprint for a class
+                -> Interfaces have special methods we call them as abstract methods
+
+                    -> Concrete Methods - Concrete methods have implementation
+
+                    -> Abstract Methods - Abstract methods don't have implementation
+
+                -> When Working with Interfaces, we use keyword implements 
+
+        -> Hybrid Level Inheritance
+
+            -> Combination of Single + Multiple + Multilevel
+
+            
+
+    
+
+
 
