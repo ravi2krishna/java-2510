@@ -757,4 +757,6 @@
 
         -> Relationship between classes is done using extends keyword
 
+        -> Child will extends Parent
+
 
