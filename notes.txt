@@ -736,3 +736,25 @@
     -> Constructors internally call non-static or instance blocks
 
     -> Main method is the starting point of execution, unless a static block is used
+
+13th Aug
+========
+
+-> OOPS Principles
+
+-> Inheritance
+
+    -> Inheritance allows one class to inherit traits from another class
+
+        -> Inherit Properties(Variables) & Methods
+
+    -> One who inherits is called Child Class
+    -> One who gives the Properties & Methods is called as Parent Class
+
+    -> Child can inherit Parent, but not vice versa
+
+    -> Inheritance is achieved by creating a Relationship between classes
+
+        -> Relationship between classes is done using extends keyword
+
+
