@@ -819,13 +819,14 @@
 
         -> Hybrid Level Inheritance
 
-            -> Combination of Single + Multiple + Multilevel
+            -> Combination of at least two types of Inheritance
+                 Single + Multiple or Multilevel
 
                         A
                     B       C
                         D
 
-    
+  
 
 
 
