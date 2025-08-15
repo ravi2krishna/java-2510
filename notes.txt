@@ -835,8 +835,27 @@
         -> differentiate between members of subclass and members with
         same name in super class
         
+15th Aug
+========
 
+-> Access Modifiers
 
+    -> These are keywords, which controls visibility of class members
+
+    -> If we get an understanding of Access Modifiers, Encapsulation will be easy
+        to understand.
+
+    -> We Have Following Access Modifiers
+
+        -> Public
+        -> Private
+        -> Protected
+        -> Default
+
+    -> NOTE : If you understand access modifiers will using variables, the same concept
+        is extends to other members as well, with only slight difference for Classes
+            (Mainly for top level classes)
+            -> Top level classes only support public and default
 
 
 
