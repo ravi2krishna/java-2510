@@ -859,3 +859,12 @@
 
 
 
+-> Encapsulation
+
+    -> Encapsulation describes the ability of an object, to hide
+    it's data(variables) from rest of the world.
+
+    -> If you take a class, what it does ?
+
+        Class binds variables, methods, constructors, blocks etc 
+
