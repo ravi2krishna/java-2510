@@ -868,3 +868,14 @@
 
         Class binds variables, methods, constructors, blocks etc 
 
+16th Aug
+========
+
+    -> Encapsulation Demo
+
+    -> Using Encapsulation means
+
+        -> Declaring all the data i.e variables as Private
+        -> Providing getters and setters methods to access and modify private variable
+
+    
