@@ -8,13 +8,13 @@ public class Teacher {
         // we have directly accessed data and set data
 
         // in future we cannot perform any sort of validations or logics
-        s.setAttendance(true);
-        s.getAttendance();
+        // s.setAttendance(true);
+        // s.getAttendance();
 
         // s.isAttended = false;
         // we can directly act on the data before encapsulation
 
-        s.setAttendance(false);
+        // s.setAttendance(false);
 
 
     }
