@@ -879,3 +879,36 @@
         -> Providing getters and setters methods to access and modify private variable
 
     
+20th Aug
+========
+
+-> Abstraction - Hiding implementation and showing only the essential features of an object.
+
+-> To work with Abstraction, we need to know about
+
+    -> Interfaces
+    -> Abstract Classes
+
+-> A class is a Blueprint for an object
+
+-> Interfaces 
+    
+    -> An interface is a Blueprint for a class
+
+    -> Interfaces have special methods we call them as abstract methods
+            -> Abstract Methods - Abstract methods don't have implementation
+    
+    -> Interfaces have only constants (Static Final Variables)
+
+    -> An interface is like a Contract, which means you are bind by Contract
+
+    -> Till Java 7, this is how Interfaces Worked, only abstract methods no implementations
+
+        -> From Java 8, we got new updates in interfaces
+
+            -> You you can something called as default methods 
+
+
+            
+
+
