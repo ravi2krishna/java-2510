@@ -1,10 +1,13 @@
 package thirteen_abstraction;
 
-public class User {
+public class UserAbs {
 
     public static void main(String[] args) {
         
-        Lenovo lenovo = new Lenovo();
+        // Lenovo lenovo = new Lenovo(); --> No Abstraction
+
+        // With Abstraction
+        Laptop lenovo = new Lenovo();
         System.out.println("Buying Lenovo Laptop");
         lenovo.usbSlot();
         lenovo.hdmiSlot();
@@ -19,15 +22,7 @@ public class User {
         dell.audioJack();
         dell.microsdSlot();
         dell.ethernetSlot();
-        Laptop.ethernetSlot();
-        
-        // --> abstract classes cannot be instantiated
-        // NewLenovo newLenovo = new NewLenovo(); 
       
     }
-
-    
-    
-
 
 }

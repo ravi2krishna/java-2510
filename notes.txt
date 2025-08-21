@@ -908,7 +908,32 @@
 
             -> You you can something called as default methods 
 
+21st Aug
+========
 
+-> Abstract Classes
             
+    -> We know what is Concrete class - Concrete Methods
+    -> We know what is Interface - Abstract Methods
 
+-> we use a keyword called abstract when creating abstract classes
 
+-> Abstract Class Contains
+
+    -> Abstract Methods - without body
+
+    -> Concrete Methods - with body
+
+    -> Rules For Abstract Classes
+
+        -> We cannot create an object for abstract class
+
+        -> We can have concrete methods in abstract classes
+
+        -> If we have multiple abstract classes like interfaces,
+            we cannot get multiple Inheritance
+
+            -> class implements Inter_A, Inter_B - Okay
+
+            -> class extends AbsClass_A, AbsClass_B - Not Okay
+ 
