@@ -937,3 +937,9 @@
 
             -> class extends AbsClass_A, AbsClass_B - Not Okay
  
+22nd Aug
+========
+
+    -> Apply Abstraction On LMS Project
+
+    
