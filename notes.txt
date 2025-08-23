@@ -940,6 +940,10 @@
 22nd Aug
 ========
 
-    -> Apply Abstraction On LMS Project
+    -> Apply Abstraction On LMS Project - Part 1
 
-    
+
+23rd Aug
+========
+
+    -> Apply Abstraction On LMS Project - Part 2
