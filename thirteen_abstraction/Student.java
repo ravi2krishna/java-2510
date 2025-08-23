@@ -24,7 +24,6 @@ public class Student extends AbstractPerson implements Personable,Payables {
     private int performanceCredits;
     private int totalCredits;
     private int trainerRating;
-    private String studentDescription;
     private double courseFee;
     
     // Scores Array Dynamic
@@ -45,15 +44,7 @@ public class Student extends AbstractPerson implements Personable,Payables {
     //     this.courseFee = courseFee;
     // }
 
-        // setters & getters
-    public String getStudentDescription() {
-        return studentDescription;
-    }
-
-    public void setStudentDescription(String studentDescription) {
-        this.studentDescription = studentDescription;
-    }
-
+    // setters & getters
     public double getCourseFee() {
         return courseFee;
     }
@@ -84,10 +75,10 @@ public class Student extends AbstractPerson implements Personable,Payables {
 
         System.out.println("Enter Student Mobile Number: ");     
         setPersonMobileNumber(sc.nextLong());
+        sc.nextLine(); // buffer 
 
-        System.out.println("Enter Description: "); 
-        sc.nextLine(); // buffer    
-        setStudentDescription(getStudentDescription());
+        System.out.println("Enter Description: ");   
+        setPersonDescription(sc.nextLine());
 
         System.out.println("Enter Course Fee: ");
         setCourseFee(sc.nextDouble());
@@ -108,7 +99,7 @@ public class Student extends AbstractPerson implements Personable,Payables {
     public void calculatePayment() {
 
         double discount = 0;
-        String description = studentDescription;
+        String description = getPersonDescription();
 
         if (description.contains("reference")) {
             discount += 5000;

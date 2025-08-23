@@ -12,6 +12,7 @@ public abstract class AbstractPerson {
     private String personName;
     private int personAge;
     private long personMobileNumber;
+    private String personDescription;
 
     // getters & setters
     public int getPersonID() {
@@ -50,6 +51,14 @@ public abstract class AbstractPerson {
 
     public void setPersonMobileNumber(long personMobileNumber) {
         this.personMobileNumber = personMobileNumber;
+    }
+
+    public String getPersonDescription() {
+        return personDescription;
+    }
+
+    public void setPersonDescription(String personDescription) {
+        this.personDescription = personDescription;
     }
 
     // Display Trainer Details -> as it's a contract

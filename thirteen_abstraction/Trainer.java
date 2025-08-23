@@ -77,14 +77,4 @@ public class Trainer extends AbstractPerson implements Personable,Payables {
         System.out.println("Total Payment To Be Made: "+totalPayment);
     }
 
-    // calculating achievement status -> as it's a contract
-    public void achievementStatus() {
-        Student studentObj = new Student();
-        if (studentObj.trainerRatings() == 5) {
-            System.out.println("Good Work");
-        } else {
-            System.out.println("Do Better");
-        }
-    }
-
 }
