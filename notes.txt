@@ -947,3 +947,33 @@
 ========
 
     -> Apply Abstraction On LMS Project - Part 2
+
+
+25th Aug
+========    
+
+-> Polymorphism 
+
+    -> Poly - Multiple
+    -> Morph - Form
+
+    -> In Java, Polymorphism enables a single entity(Operator, Object, Method) to take multiple forms
+
+    -> Types Of Polymorphism
+
+        -> Compile Time Polymorphism
+
+            -> Occurs during compilation phase -> Method Overloading
+
+                -> Number of Parameters
+                -> Type of Parameters
+                -> Order of Parameters
+
+        -> Runtime Time Polymorphism
+
+            -> Occurs during execution/runtime phase -> Method Overriding
+
+            -> Method Overriding : Providing your own implementation, for the derived 
+                implementation from parent class
+
+
