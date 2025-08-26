@@ -982,4 +982,8 @@
 
     -> Apply Polymorphism On LMS Project
 
-    
+
+NOTE : Exception Handling - Multi Threading - Regular Expressions - Collection - SQL 
+
+     : Spring(JDBC) - Spring Boot - Actual(Real Time) Apps 
+
